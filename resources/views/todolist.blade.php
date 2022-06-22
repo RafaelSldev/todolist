@@ -40,7 +40,7 @@ body {
     width: 350px;
     padding: 15px;
     border-radius: 12px;
-    border: 1px solid #191818;
+    border: 1px solid #191817;
     outline: none;
     font-size: 1.2rem;
     background: #005;
